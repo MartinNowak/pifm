@@ -1,4 +1,4 @@
-CFLAGS=-Wall -fno-strict-aliasing -fwrapv -Wstrict-prototypes -std=c99 -lm
+CXXFLAGS=-Wall -fno-strict-aliasing -fwrapv -lm -O3
 all: pifm
 
 clean:
